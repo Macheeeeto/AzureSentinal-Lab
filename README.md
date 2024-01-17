@@ -18,16 +18,20 @@ look up the attackers Geolocation information and plot it on an Azure Sentinel M
 
 <h2>Languages Used</h2>
 
-  <b> PowerShell:</b> Extract RDP failed logon logs from Windows Event Viewer 
+- <b>PowerShell:</b> Extract RDP failed logon logs from Windows Event Viewer
+  
+<h2>Utilities Used</h2>
 
- <h2>Utilities Used</h2> 
+- <b>ipgeolocation.io:</b> IP Address to Geolocation API
+
+<h2>Attacks from all around the world coming in; Custom logs being output with geodata</h2>
 
   ![Names](https://github.com/Macheeeeto/AzureSentinal-Lab/assets/135657145/1f67ee2a-8559-4b7f-b4c6-ee272e324f48)
 
 
+<h2>World map of incoming attacks after 24 hours (built custom logs including geodata)</h2> 
 
-
-
+![Map](https://github.com/Macheeeeto/AzureSentinal-Lab/assets/135657145/fa87627f-7c10-43af-b2b0-8d26b5a70605)
 
 
 
