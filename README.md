@@ -6,11 +6,11 @@
 </b>
 <br />
 <br />
-I setup Azure Sentinel (SIEM) and connect it to a live virtual machine acting as a honey pot. This honey pot
-is used as a way to attract hackers and the point of this project is to truly point out how vulnerable any company or smally business is.
-With this project for a short period of time I'm able to  observe live attacks (RDP Brute Force) from all around the world. 
-I will use a custom PowerShell script to 
-look up the attackers Geolocation information and plot it on an Azure Sentinel Map using ipgeolocation.io
+I setup Azure Sentinel (SIEM) and connected it to a live virtual machine acting as a honey pot. This honey pot
+is used as a way to attract hackers. The point of this project is to truly point out how vulnerable any company or small business is.
+For a short period of time I'm able to observe live attacks (RDP Brute Force) from all around the world. 
+I used a custom PowerShell script to 
+look up the attackers Geolocation information and plotted it on an Azure Sentinel Map using ipgeolocation.io
 <br />
 <br />
 
