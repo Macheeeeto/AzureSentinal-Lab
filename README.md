@@ -11,6 +11,20 @@ is used as a way to attract hackers. The point of this project is to truly point
 For a short period of time I'm able to observe live attacks (RDP Brute Force) from all around the world. 
 I used a custom PowerShell script to 
 look up the attackers Geolocation information and plotted it on an Azure Sentinel Map using ipgeolocation.io
+
+<h2> Skills Learned </h2>
+
+- Advanced understanding of SIEM concepts and practical application.
+- Proficiency in analyzing and interpreting network logs.
+- Ability to generate and recognize attack signatures and patterns.
+- Enhanced knowledge of network protocols and security vulnerabilities.
+- Development of critical thinking and problem-solving skills in cybersecurity.
+
+<h2> Tools Used </h2>
+
+- Security Information and Event Management (SIEM) system for log ingestion and analysis.
+- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
+- Telemetry generation tools to create realistic network traffic and attack scenarios.
 <br />
 <br />
 
